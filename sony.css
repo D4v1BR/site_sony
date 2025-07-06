@@ -13,7 +13,7 @@
     }
 
     body{
-        background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/space.jpg);
+        background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(projeto1/img/space.jpg);
         color: rgb(241, 224, 224);
 
     }     
